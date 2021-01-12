@@ -246,7 +246,7 @@ public void testGet_headers() {
 		.add(entry(ACCEPT_ENCODING, "gzip,deflate")) //
 		.add(entry(CONNECTION, "keep-alive")) //
 		.add(entry(HOST, "localhost:????")) //
-		.add(entry(USER_AGENT, "Apache-HttpClient")) //
+		.add(entry(USER_AGENT, "Apache-HttpClient/4.5.9 (Java/1.8.0_121)")) //
 		.add("") //
 		.build();
 
