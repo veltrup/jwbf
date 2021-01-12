@@ -10,11 +10,6 @@
 	<prerequisites>
 		<maven>3.1.1</maven>
 	</prerequisites>
-	<parent>
-		<groupId>org.sonatype.oss</groupId>
-		<artifactId>oss-parent</artifactId>
-		<version>7</version>
-	</parent>
 	<url>http://jwbf.sourceforge.net/</url>
 	<issueManagement>
 		<url>https://github.com/eldur/jwbf/issues</url>
